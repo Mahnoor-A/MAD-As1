@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mahnoor Amjad</string>
+    <string name="name">Name: Mahnoor Amjad</string>
+    <string name="regno">Reg. no.: 19-ARID-1195</string>
+    <string name="semester">Semester: 6</string>
+    <string name="course">Course: Mobile Application Development</string>
+    <string name="degree">Degree: BSSE</string>
+    <string name="change">Change</string>
+</resources>
